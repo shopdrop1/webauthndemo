@@ -48,7 +48,7 @@
     "@simplewebauthn/server": "^6.3.0-alpha.1",
     "dotenv": "^16.3.1",
     "express": "^4.18.2",
-    "express-handlebars": "^6.0.7",
+    "express-handlebars": "^7.0.0",
     "express-session": "^1.17.3",
     "express-useragent": "^1.0.15",
     "express-validator": "^6.15.0",
