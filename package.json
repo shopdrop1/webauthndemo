@@ -74,7 +74,7 @@
     "@types/rollup-plugin-node-globals": "^1.4.4",
     "@types/uid-safe": "^2.1.5",
     "firebase-tools": "^12.9.1",
-    "rimraf": "^4.4.1",
+    "rimraf": "^6.1.1",
     "rollup": "^3.29.4",
     "rollup-plugin-copy": "^3.5.0",
     "rollup-plugin-import-css": "^3.4.0",
